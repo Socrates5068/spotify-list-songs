@@ -205,3 +205,48 @@ python playlistExtrator.py
   }
 ]
 ```
+
+---
+
+## 5. Comparar librería local con `tracks.json`
+
+### Descripción
+
+`missingTracks/check_music.py` compara las canciones registradas en `tracks.json` con los archivos `.mp3` existentes en una carpeta local.
+
+El script normaliza nombres y busca coincidencias entre:
+
+- artista + título
+- título + artista
+- título solo
+
+Si no encuentra un archivo local coincidente, registra la pista como faltante en `missingTracks/missing_tracks.json`.
+
+### Uso
+
+```powershell
+cd missingTracks
+python check_music.py "E:\Music\Spotify\misc"
+```
+
+### Resultado
+
+- `missing_tracks.json` se guarda en `missingTracks/`
+- El archivo contiene una lista de todas las pistas de `tracks.json` que no se detectaron como archivos `.mp3` en la carpeta local
+
+### Ejemplo de salida en pantalla
+
+```text
+Scanning directory: E:\Music\Spotify\misc
+
+Analysis completed:
+- Total in JSON: 954
+- Total files found on disk: 1200
+- Missing tracks identified: 82
+Result saved to: missing_tracks.json
+```
+
+### Nota
+
+- El script asume que los archivos locales son `.mp3`
+- Si deseas usar otra carpeta, reemplaza la ruta en el argumento del script
