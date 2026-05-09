@@ -1,0 +1,346 @@
+{
+  "tracks": [
+    {
+      "track_number": "1",
+      "title": "Lo Busqué",
+      "artist": "Ana Bárbara",
+      "album": "Loca De Amar"
+    },
+    {
+      "track_number": "2",
+      "title": "More Than a Feeling",
+      "artist": "Boston",
+      "album": "Boston"
+    },
+    {
+      "track_number": "3",
+      "title": "GENERACION 2000 Morena  tropicana",
+      "artist": "Marcos Marquiño",
+      "album": null
+    },
+    {
+      "track_number": "4",
+      "title": "Estrechandome",
+      "artist": "Rabito",
+      "album": "Amarte Amarte una Vez Mas y No Me Marchare"
+    },
+    {
+      "track_number": "5",
+      "title": "Te Acuerdas de Mi (con  Oswaldo)",
+      "artist": "Grupo 606",
+      "album": "Te Acuerdas de Mi"
+    },
+    {
+      "track_number": "6",
+      "title": "Mi Nena",
+      "artist": "Extrana Tormenta",
+      "album": "Mi Nena"
+    },
+    {
+      "track_number": "7",
+      "title": "Néctar de Verano",
+      "artist": "Los Ecos",
+      "album": "Grandes Éxitos del Ayer"
+    },
+    {
+      "track_number": "8",
+      "title": "Se Que No Vendrás",
+      "artist": "Los Ovnis",
+      "album": "Gente Pobre"
+    },
+    {
+      "track_number": "9",
+      "title": "Hombre Solitario (Folk  Song)",
+      "artist": "Los Doltons",
+      "album": "El Show de..."
+    },
+    {
+      "track_number": "10",
+      "title": "Los Bribones - El  vagabundo.",
+      "artist": "cirovito",
+      "album": null
+    },
+    {
+      "track_number": "11",
+      "title": "Ojitos Mentirosos",
+      "artist": "Los Lideres",
+      "album": "Ojitos Mentirosos"
+    },
+    {
+      "track_number": "12",
+      "title": "Tu Cariño Se Me Va",
+      "artist": "Buddy Richard",
+      "album": "50 Canciones de Antología, Vol. 2"
+    },
+    {
+      "track_number": "13",
+      "title": "Universitario  Vagabundo",
+      "artist": "Los Ronisch",
+      "album": "Princesa"
+    },
+    {
+      "track_number": "14",
+      "title": "Que Belleza",
+      "artist": "Los Tigres",
+      "album": "Que Belleza"
+    },
+    {
+      "track_number": "15",
+      "title": "Caballo Viejo",
+      "artist": "Roberto Torres y su Charanga Vallenata, Vol. 2",
+      "album": null
+    },
+    {
+      "track_number": "16",
+      "title": "Recordarás",
+      "artist": "Vico Vega",
+      "album": "Terminó el Amor"
+    },
+    {
+      "track_number": "17",
+      "title": "Cariño Grande",
+      "artist": "Los Signos",
+      "album": "Cariño Grande"
+    },
+    {
+      "track_number": "18",
+      "title": "Primera Experiencia",
+      "artist": "Los Internacionales Iberia",
+      "album": "El Soñador"
+    },
+    {
+      "track_number": "19",
+      "title": "El Cuarto de Tula",
+      "artist": "Buena Vista Social Club",
+      "album": "Buena Vista Social Club"
+    },
+    {
+      "track_number": "20",
+      "title": "Se Me Esta Yendo Tu  Cariño",
+      "artist": "H2O",
+      "album": "Grandes Éxitos del Ayer"
+    },
+    {
+      "track_number": "21",
+      "title": "Callaré Simplemente",
+      "artist": "Los Ecos",
+      "album": "Callaré Simplemente"
+    },
+    {
+      "track_number": "22",
+      "title": "Collita",
+      "artist": "Wara",
+      "album": "Oh Linda la Paz"
+    },
+    {
+      "track_number": "23",
+      "title": "Los Signos - Perdido en  Mi Soledad (Versión Original)",
+      "artist": "FerNy CoC",
+      "album": null
+    },
+    {
+      "track_number": "24",
+      "title": "Te Juro Que Te Amo",
+      "artist": "Los Terrícolas",
+      "album": "16 Super Éxitos Álbum De Oro Vol. 1"
+    },
+    {
+      "track_number": "25",
+      "title": "Los Cristales. Se que no  vendras. Canta Leo Palma.Autor Gaston Vargas, guitarrista del grupo.",
+      "artist": "LEO PALMA. LOS CRISTALES.",
+      "album": null
+    },
+    {
+      "track_number": "26",
+      "title": "Amarte Amarte una Vez",
+      "artist": "Rabito",
+      "album": "Amarte Amarte una Vez Mas y No Me Marchare"
+    },
+    {
+      "track_number": "27",
+      "title": "Que No Quede Huellas",
+      "artist": "Climax",
+      "album": "Climax"
+    },
+    {
+      "track_number": "28",
+      "title": "Regresa a Mí",
+      "artist": "Luis Carrión",
+      "album": "Lo Mejor de (Alto Folklore Boliviano)"
+    },
+    {
+      "track_number": "29",
+      "title": "Te Acuerdas de Mi",
+      "artist": "40 Años de Rock Boliviano Vol. 1",
+      "album": null
+    },
+    {
+      "track_number": "30",
+      "title": "No, No Puede Ser",
+      "artist": "Grupo 606",
+      "album": "Rompe, Cruza O Ayúdame"
+    },
+    {
+      "track_number": "31",
+      "title": "La Tarara",
+      "artist": "Los Grillos",
+      "album": "40 Años de Rock Boliviano Vol. 1"
+    },
+    {
+      "track_number": "32",
+      "title": "En el Vaivén",
+      "artist": "Grupo 606",
+      "album": "40 Años de Rock Boliviano Vol. 1"
+    },
+    {
+      "track_number": "33",
+      "title": "Complicado",
+      "artist": "Loving Dark's",
+      "album": "40 Años de Rock Boliviano Vol. 1"
+    },
+    {
+      "track_number": "34",
+      "title": "Puerto Montt",
+      "artist": "Los Iracundos",
+      "album": "20 Grandes 20"
+    },
+    {
+      "track_number": "35",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "album": "Bad Romance"
+    },
+    {
+      "track_number": "36",
+      "title": "Déjame Un Beso",
+      "artist": "Salsa Kids",
+      "album": "Los Hits Románticos Bailables"
+    },
+    {
+      "track_number": "37",
+      "title": "Deseos: Rondando Tu  Esquina / Nuestro Juramento",
+      "artist": "Charlie Zaa",
+      "album": "Sentimientos 15 Aniversario"
+    },
+    {
+      "track_number": "38",
+      "title": "La Quiero A Morir",
+      "artist": "D.L.G.",
+      "album": "Swing On"
+    },
+    {
+      "track_number": "39",
+      "title": "Amarastabrillar",
+      "artist": "Lapsus",
+      "album": "Umar Mash"
+    },
+    {
+      "track_number": "40",
+      "title": "My Love",
+      "artist": "Lapsus",
+      "album": "Umar Mash"
+    },
+    {
+      "track_number": "41",
+      "title": "Una Brasilera",
+      "artist": "Paralamas",
+      "album": "Boom: Lo Mejor del '96, Vol. 2"
+    },
+    {
+      "track_number": "42",
+      "title": "Resumen Paceño",
+      "artist": "Lou-Kass",
+      "album": "Akasa"
+    },
+    {
+      "track_number": "43",
+      "title": "Traición a la  Mejicana",
+      "artist": "Zimbabwe",
+      "album": "Cuestión de Honor"
+    },
+    {
+      "track_number": "44",
+      "title": "Cada Beso",
+      "artist": "Llegas",
+      "album": "Huye el Sol"
+    },
+    {
+      "track_number": "45",
+      "title": "Strong Love",
+      "artist": "Lapsus",
+      "album": "Umar Mash"
+    },
+    {
+      "track_number": "46",
+      "title": "Sin Ti",
+      "artist": "Donato Y Estefano",
+      "album": "Lo Mejor De Donato & Estéfano"
+    },
+    {
+      "track_number": "47",
+      "title": "El Wampiro Down",
+      "artist": "Jade Bolivia",
+      "album": "0 Km"
+    },
+    {
+      "track_number": "48",
+      "title": "Cero de Sol",
+      "artist": "Lapsus",
+      "album": "Umar Mash"
+    },
+    {
+      "track_number": "49",
+      "title": "Bye Bye",
+      "artist": "Vilma Palma e Vampiros",
+      "album": "La Pachanga"
+    },
+    {
+      "track_number": "50",
+      "title": "La Guitarra",
+      "artist": "Los Auténticos Decadentes",
+      "album": "Mi Vida Loca"
+    },
+    {
+      "track_number": "51",
+      "title": "Runaway",
+      "artist": "Los Pericos",
+      "album": "Pampas Reggae"
+    },
+    {
+      "track_number": "52",
+      "title": "Pase Lo Que Pase (con  Jeanette)",
+      "artist": "Big Boy",
+      "album": "Mis Ojos Lloran Por Ti"
+    },
+    {
+      "track_number": "53",
+      "title": "No Eres Nada",
+      "artist": "Jade Bolivia",
+      "album": "0 Km"
+    },
+    {
+      "track_number": "54",
+      "title": "Siguiendo la Luna  (Remasterizado 2008)",
+      "artist": "Los Fabulosos Cadillacs",
+      "album": "El León"
+    },
+    {
+      "track_number": "55",
+      "title": "Stairway to Heaven  (Remaster)",
+      "artist": "Led Zeppelin",
+      "album": "Mothership"
+    },
+    {
+      "track_number": "56",
+      "title": "Chacarera del Violín",
+      "artist": "Néstor Garnica",
+      "album": "La Fiesta del Violinero"
+    },
+    {
+      "track_number": "57",
+      "title": "Realidad",
+      "artist": "Wara",
+      "album": "El Inca"
+    }
+  ]
+}
