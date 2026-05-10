@@ -1,24 +1,6 @@
 {
     "missing_tracks": [
         {
-            "track_number": "7",
-            "title": "La Llorona (feat. Los Macorinos)",
-            "artist": "Natalia Lafourcade, Los Macorinos",
-            "album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol.                         2"
-        },
-        {
-            "track_number": "36",
-            "title": "神様はじめました",
-            "artist": "Hanae",
-            "album": "十戒クイズ"
-        },
-        {
-            "track_number": "52",
-            "title": "Arcade (feat. FLETCHER)",
-            "artist": "Duncan Laurence, FLETCHER",
-            "album": "Small Town Boy"
-        },
-        {
             "track_number": "54",
             "title": "Lost Umbrella",
             "artist": "稲葉曇",
@@ -31,100 +13,16 @@
             "album": "Kikuo Miku 3"
         },
         {
-            "track_number": "65",
-            "title": "Amor, Amor de Mis Amores (with Devendra Banhart)",
-            "artist": "Natalia Lafourcade, Devendra Banhart",
-            "album": "Mujer Divina - Homenaje a Agustín Lara"
-        },
-        {
-            "track_number": "66",
-            "title": "STAY (with Justin Bieber)",
-            "artist": "The Kid LAROI, Justin Bieber",
-            "album": "F*CK LOVE 3: OVER YOU"
-        },
-        {
             "track_number": "69",
             "title": "INDUSTRY BABY (feat. Jack Harlow)",
             "artist": "Lil Nas X, Jack Harlow",
             "album": "MONTERO"
         },
         {
-            "track_number": "76",
-            "title": "Fashion Week",
-            "artist": "cry, Blackbear gg",
-            "album": "Fashion Week"
-        },
-        {
-            "track_number": "77",
-            "title": "Forget Me Nots - Remastered",
-            "artist": "Patrice Rushen",
-            "album": "Straight From The Heart"
-        },
-        {
-            "track_number": "83",
-            "title": "Blood // Water",
-            "artist": "grandson",
-            "album": "a                         modern tragedy vol. 1"
-        },
-        {
-            "track_number": "303",
-            "title": "I Just Can't Wait to Be King - Japanese Version",
-            "artist": "Tatsuya Nakazaki, Junko Yamamoto, Hideyuki Umezu",
-            "album": "The Lion King (Original Motion Picture Soundtrack/Japan Release                         Version)"
-        },
-        {
-            "track_number": "325",
-            "title": "Easy Love - Extended Mix",
-            "artist": "Sigala",
-            "album": "Easy Love - EP"
-        },
-        {
-            "track_number": "327",
-            "title": "Watch Out For This (Bumaye) - Dimitri Vegas & Like Mike Tomorrowland Remix",
-            "artist": "Major Lazer, Busy Signal, The Flexican, FS Green, Dimitri Vegas & Like Mike",
-            "album": "Watch Out For This (Bumaye) [Remixes]"
-        },
-        {
-            "track_number": "344",
-            "title": "Sorry - Latino Remix",
-            "artist": "Justin Bieber, J Balvin",
-            "album": "Sorry (Latino Remix)"
-        },
-        {
-            "track_number": "345",
-            "title": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-            "artist": "Maroon 5, Christina Aguilera",
-            "album": "Hands All Over (Revised International Standard version)"
-        },
-        {
-            "track_number": "362",
-            "title": "DARE (feat. Shaun Ryder & Roses Gabor)",
-            "artist": "Gorillaz, Shaun Ryder, Roses Gabor",
-            "album": "Demon Days"
-        },
-        {
-            "track_number": "373",
-            "title": "Enemy (with JID) - from the series Arcane League of Legends",
-            "artist": "Imagine Dragons, JID, Arcane, League of Legends",
-            "album": "Mercury - Act 1"
-        },
-        {
             "track_number": "387",
             "title": "Delirio de Estadio",
             "artist": "Spongebob Squarepants",
             "album": "Grandes Éxitos de Bob Esponja"
-        },
-        {
-            "track_number": "388",
-            "title": "Bailan Sin Cesar - Latidos Latinos Urbanos Emergentes Hip Hop Hermano Brother",
-            "artist": "31 Minutos",
-            "album": "31 Minutos"
-        },
-        {
-            "track_number": "389",
-            "title": "Tangananica Tangananá - Hermanos Guarennes",
-            "artist": "31 Minutos",
-            "album": "31 Minutos"
         },
         {
             "track_number": "405",
@@ -157,76 +55,10 @@
             "album": "Touch the Sky"
         },
         {
-            "track_number": "417",
-            "title": "Jiggle Jiggle (Jason Derulo x Duke & Jones x Louis Theroux x Amelia Dimz)",
-            "artist": "Jason Derulo, Duke & Jones, Louis Theroux, Amelia Dimz",
-            "album": "Jiggle Jiggle (With Duke & Jones)"
-        },
-        {
-            "track_number": "445",
-            "title": "Bad Decisions (with BTS & Snoop Dogg)",
-            "artist": "benny blanco, BTS, Snoop Dogg",
-            "album": "Bad Decisions (with BTS & Snoop Dogg)"
-        },
-        {
-            "track_number": "460",
-            "title": "Save Your Tears (with Ariana Grande) (Remix)",
-            "artist": "The Weeknd, Ariana Grande",
-            "album": "Save Your Tears (Remix)"
-        },
-        {
-            "track_number": "463",
-            "title": "丸ノ内サディスティック ～Marunouchi Sadistic～ - Miso Remix",
-            "artist": "Sheena Ringo, Miso",
-            "album": "丸ノ内サディスティック ～Marunouchi Sadistic～ (Miso Remix)"
-        },
-        {
-            "track_number": "482",
-            "title": "Quédate, Pt. 1",
-            "artist": "Rock 'N Cola",
-            "album": "Dedicada a Mi Ex (Original Soundtrack)"
-        },
-        {
-            "track_number": "503",
-            "title": "Le Festin",
-            "artist": "Camille, Michael Giacchino",
-            "album": "Ratatouille (Originalnyi Saundtrek)"
-        },
-        {
-            "track_number": "509",
-            "title": "Mira Niñita - 2020 Remasterizado",
-            "artist": "Los Jaivas",
-            "album": "La Ventana (2020 Remasterizado)"
-        },
-        {
-            "track_number": "511",
-            "title": "Aguila ft. Cumbiafrica",
-            "artist": "HUGEL, Westend, Cumbiafrica",
-            "album": "Aguila ft. Cumbiafrica"
-        },
-        {
             "track_number": "515",
             "title": "Rebelión",
             "artist": "El Sonero de América",
             "album": "35 Años de Exitos"
-        },
-        {
-            "track_number": "520",
-            "title": "Family (with Suzanna Son)",
-            "artist": "The Weeknd, Suzanna Son",
-            "album": "The Idol Episode 2 (Music from the HBO Original Series)"
-        },
-        {
-            "track_number": "527",
-            "title": "One Summer's Day (The Name of Life) - English Version / from 'Spirited Away'",
-            "artist": "Joe Hisaishi, Royal Philharmonic Orchestra, Grace Davidson",
-            "album": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao                         Miyazaki"
-        },
-        {
-            "track_number": "532",
-            "title": "Divino Bombón",
-            "artist": "Quirquiña",
-            "album": "Zero"
         },
         {
             "track_number": "575",
@@ -235,28 +67,10 @@
             "album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol.                         2"
         },
         {
-            "track_number": "583",
-            "title": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
-            "artist": "Bee Gees",
-            "album": "Greatest"
-        },
-        {
-            "track_number": "588",
-            "title": "Requiem",
-            "artist": "Mägo de Oz",
-            "album": "Folktergeist"
-        },
-        {
             "track_number": "631",
             "title": "More Than Words",
             "artist": "Extreme",
             "album": "Extreme II - Pornograffitti"
-        },
-        {
-            "track_number": "634",
-            "title": "What Is Love - 7\" Mix",
-            "artist": "Haddaway",
-            "album": "The Album"
         },
         {
             "track_number": "635",
@@ -271,48 +85,6 @@
             "album": "Life In Cartoon Motion"
         },
         {
-            "track_number": "637",
-            "title": "Brother Louie Mix '98 (feat. Eric Singleton) - Radio Edit",
-            "artist": "Modern Talking, Eric Singleton",
-            "album": "Back For Good/2nd"
-        },
-        {
-            "track_number": "647",
-            "title": "La vie en rose - Single Version",
-            "artist": "Louis Armstrong",
-            "album": "Satchmo Serenades"
-        },
-        {
-            "track_number": "655",
-            "title": "Oye Cómo Va",
-            "artist": "Tito Puente",
-            "album": "El Rey Bravo"
-        },
-        {
-            "track_number": "657",
-            "title": "El Bombón Asesino - Cumbia Version",
-            "artist": "Ninel Conde",
-            "album": "Lo Más Escuchado De"
-        },
-        {
-            "track_number": "670",
-            "title": "I Love It (feat. Charli XCX)",
-            "artist": "Icona Pop, Charli xcx",
-            "album": "THIS IS... ICONA POP"
-        },
-        {
-            "track_number": "679",
-            "title": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
-            "artist": "Bingo Players, Far East Movement",
-            "album": "Get Up (Rattle) [feat. Far East Movement]"
-        },
-        {
-            "track_number": "683",
-            "title": "Get Up (Rattle) [feat. Far East Movement] - Vocal Extended",
-            "artist": "Bingo Players, Far East Movement",
-            "album": "Get Up (Rattle) [feat. Far East Movement]"
-        },
-        {
             "track_number": "693",
             "title": "Deseándote",
             "artist": "Frankie Ruiz",
@@ -323,24 +95,6 @@
             "title": "キエンセラ",
             "artist": "Lisa Ono",
             "album": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-"
-        },
-        {
-            "track_number": "696",
-            "title": "Until I Found You (with Em Beihold) - Em Beihold Version",
-            "artist": "Stephen Sanchez, Em Beihold",
-            "album": "Angel Face (Club Deluxe)"
-        },
-        {
-            "track_number": "708",
-            "title": "Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged",
-            "artist": "Los Auténticos Decadentes, Rubén Albarrán",
-            "album": "Fiesta Nacional (Mtv Unplugged)"
-        },
-        {
-            "track_number": "713",
-            "title": "Viviré para Ti",
-            "artist": "Los Amigos Invisibles",
-            "album": "Commercial"
         },
         {
             "track_number": "717",
@@ -545,12 +299,6 @@
             "title": "Maneater",
             "artist": "Daryl Hall & John Oates",
             "album": "H2O"
-        },
-        {
-            "track_number": "753",
-            "title": "Are You Gonna Go My Way",
-            "artist": "Lenny Kravitz",
-            "album": "Are You Gonna Go My Way"
         },
         {
             "track_number": "754",
@@ -883,12 +631,6 @@
             "album": "François"
         },
         {
-            "track_number": "811",
-            "title": "Escape (The Pina Colada Song)",
-            "artist": "Rupert Holmes",
-            "album": "Partners In Crime"
-        },
-        {
             "track_number": "812",
             "title": "Baby Come Back",
             "artist": "Player",
@@ -917,12 +659,6 @@
             "title": "Tripping",
             "artist": "Robbie Williams",
             "album": "Intensive Care"
-        },
-        {
-            "track_number": "817",
-            "title": "Tuyo (Mixed)",
-            "artist": "Rodrigo Amarante",
-            "album": "All Back To (DJ Mix)"
         },
         {
             "track_number": "819",
@@ -961,12 +697,6 @@
             "album": "Fragile (Super Deluxe)"
         },
         {
-            "track_number": "826",
-            "title": "Dreams - 2004 Remaster",
-            "artist": "Fleetwood Mac",
-            "album": "Rumours (Super Deluxe)"
-        },
-        {
             "track_number": "827",
             "title": "Everywhere - 2017 Remaster",
             "artist": "Fleetwood Mac",
@@ -977,12 +707,6 @@
             "title": "I Ran (So Far Away) - Single Edit",
             "artist": "A Flock Of Seagulls",
             "album": "A Flock Of Seagulls (Deluxe)"
-        },
-        {
-            "track_number": "829",
-            "title": "Video Killed The Radio Star - Single Version",
-            "artist": "The Buggles",
-            "album": "Video Killed The Radio Star / Kid Dynamo"
         },
         {
             "track_number": "830",
@@ -1555,12 +1279,6 @@
             "album": "Sintiendonos La Piel"
         },
         {
-            "track_number": "933",
-            "title": "Mi Corazón Es un Gitano",
-            "artist": "Lupita D'Alessio",
-            "album": "Mi Corazón Es un Gitano (2025 Remastered)"
-        },
-        {
             "track_number": "1",
             "title": "Lo Busqué",
             "artist": "Ana Bárbara",
@@ -1831,52 +1549,10 @@
             "album": "El Inca"
         },
         {
-            "track_number": "93",
-            "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
-            "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
-            "album": "Random Access Memories"
-        },
-        {
-            "track_number": "98",
-            "title": "Moves Like Jagger - Studio Recording From \"The Voice\"\n                            Performance",
-            "artist": "Maroon 5, Christina Aguilera",
-            "album": "Hands All Over"
-        },
-        {
             "track_number": "121",
             "title": "My Universe",
             "artist": "Coldplay, BTS",
             "album": "My Universe"
-        },
-        {
-            "track_number": "141",
-            "title": "Melting (To Katherine)",
-            "artist": "ElBau",
-            "album": "Melting (To Katherine)"
-        },
-        {
-            "track_number": "151",
-            "title": "Nuestra Canción (feat. Vicente García)",
-            "artist": "Monsieur Periné, Vicente Garcia",
-            "album": "Nuestra Canción (feat. Vicente García)"
-        },
-        {
-            "track_number": "186",
-            "title": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) -\n                            Cedric Gervais Remix",
-            "artist": "Lana Del Rey, Cedric Gervais",
-            "album": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais\n                        Remix]"
-        },
-        {
-            "track_number": "198",
-            "title": "ily (i love you baby) (feat. Emilee)",
-            "artist": "Surf Mesa, Emilee",
-            "album": "ily (i love you baby) (feat. Emilee)"
-        },
-        {
-            "track_number": "221",
-            "title": "Virtual Insanity - Remastered 2006",
-            "artist": "Jamiroquai",
-            "album": "High Times: Singles 1992-2006"
         },
         {
             "track_number": "224",
@@ -1885,40 +1561,10 @@
             "album": "You Reposted in the Wrong Neighborhood I Glue70 Mashup"
         },
         {
-            "track_number": "228",
-            "title": "Heart Of Glass - Special Mix",
-            "artist": "Blondie",
-            "album": "Best Of Blondie"
-        },
-        {
-            "track_number": "230",
-            "title": "Perdoname (feat. DyCy & Adrian Delgado)",
-            "artist": "Deorro, DyCy, Adrian Delgado",
-            "album": "Perdoname (feat. DyCy & Adrian Delgado)"
-        },
-        {
-            "track_number": "234",
-            "title": "Feel This Moment (feat. Christina Aguilera) - Riddler &\n                            Reid Stefan Radio Mix",
-            "artist": "Pitbull, Christina Aguilera, Rich \"Riddler\" Pangilinan, Reid\n                            Stefan",
-            "album": "Feel This Moment Remixes (feat. Christina Aguilera)"
-        },
-        {
-            "track_number": "242",
-            "title": "Agua Con Chía",
-            "artist": "Sous-Sol",
-            "album": "Mi Berrinche"
-        },
-        {
             "track_number": "247",
             "title": "Somewhere Over The Rainbow/What A Wonderful World",
             "artist": "Israel\n                            Kamakawiwo'ole",
             "album": "Facing Future"
-        },
-        {
-            "track_number": "294",
-            "title": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-            "artist": "Amaarae, Kali\n                            Uchis, MOLIY",
-            "album": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)"
         }
     ]
 }
